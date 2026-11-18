@@ -1,0 +1,7 @@
+Group 7 Neon PostgreSQL benchmark summary
+Generated UTC: 2026-11-17T18:25:16.604624+00:00
+
+warm: n=10, mean_ms=4614.368, median_ms=4460.227, min_ms=2954.381, max_ms=7784.204, errors=0
+first_after_idle: n=1, mean_ms=3135.748, median_ms=3135.748, min_ms=3135.748, max_ms=3135.748, errors=0
+after_resume: n=5, mean_ms=2714.218, median_ms=2686.286, min_ms=2614.590, max_ms=2855.405, errors=0
+concurrent_burst: n=10, mean_ms=2459.516, median_ms=2418.647, min_ms=2378.047, max_ms=2695.479, errors=0
